@@ -31,4 +31,4 @@ A 3D digital twin visualization tool for agricultural simulation. It connects te
 ---
 
 ## License
-This project is proprietary and confidential. Property of Humanity Co.
+This project is proprietary and confidential. 
